@@ -1,3 +1,9 @@
+#the code bellow gives you your ip address lets you see your subnet if youknow your subnetmask and gives you your location and many move information about it
+#or if you choose to submit an ip of your choice give you its binary writing and subnet if you give the subnet mask 
+
+
+
+
 import json
 import re
 import requests
